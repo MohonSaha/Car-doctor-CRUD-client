@@ -15,6 +15,7 @@ export default {
           secondary: "#D926AA",
           accent: "#37cdbe",
           neutral: "#3d4451",
+          buttonBg: "#FF3811",
           "base-100": "#ffffff",
         },
       },
